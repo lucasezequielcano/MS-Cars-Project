@@ -1,0 +1,16 @@
+C:\Users\lucas\Documents\GitHub\MS-Cars-Project\bin\Debug\net5.0\MS-Cars-Project.exe
+C:\Users\lucas\Documents\GitHub\MS-Cars-Project\bin\Debug\net5.0\MS-Cars-Project.deps.json
+C:\Users\lucas\Documents\GitHub\MS-Cars-Project\bin\Debug\net5.0\MS-Cars-Project.runtimeconfig.json
+C:\Users\lucas\Documents\GitHub\MS-Cars-Project\bin\Debug\net5.0\MS-Cars-Project.runtimeconfig.dev.json
+C:\Users\lucas\Documents\GitHub\MS-Cars-Project\bin\Debug\net5.0\MS-Cars-Project.dll
+C:\Users\lucas\Documents\GitHub\MS-Cars-Project\bin\Debug\net5.0\ref\MS-Cars-Project.dll
+C:\Users\lucas\Documents\GitHub\MS-Cars-Project\bin\Debug\net5.0\MS-Cars-Project.pdb
+C:\Users\lucas\Documents\GitHub\MS-Cars-Project\obj\Debug\net5.0\MS-Cars-Project.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\GitHub\MS-Cars-Project\obj\Debug\net5.0\MS-Cars-Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\GitHub\MS-Cars-Project\obj\Debug\net5.0\MS-Cars-Project.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\GitHub\MS-Cars-Project\obj\Debug\net5.0\MS-Cars-Project.AssemblyInfo.cs
+C:\Users\lucas\Documents\GitHub\MS-Cars-Project\obj\Debug\net5.0\MS-Cars-Project.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\GitHub\MS-Cars-Project\obj\Debug\net5.0\MS-Cars-Project.dll
+C:\Users\lucas\Documents\GitHub\MS-Cars-Project\obj\Debug\net5.0\ref\MS-Cars-Project.dll
+C:\Users\lucas\Documents\GitHub\MS-Cars-Project\obj\Debug\net5.0\MS-Cars-Project.pdb
+C:\Users\lucas\Documents\GitHub\MS-Cars-Project\obj\Debug\net5.0\MS-Cars-Project.genruntimeconfig.cache
